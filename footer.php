@@ -1,9 +1,9 @@
-              <h2 align="center"><em>Home - <a href="classDescriptions.php">Class
+              <h2 align="center"><em><a href="index.php">Home</a> - <a href="classDescriptions.php">Class
                     Descriptions</a> - <a href="classSchedule.php">Class
                     Schedule</a> - <a href="contactUs.php">Contact Us</a></em></h2>
-              <div align="center"> ©2014 <a href="http://www.diablofirearmtraining.com/contactUs.php"
+              <div align="center"> &copy;2016 <a href="/contactUs.php"
 
-                  target="_top">Diablo Safety Training</a> </div>
+                  target="_top">Diablo Firearms Training</a> </div>
             </td>
           </tr>
         </tbody>

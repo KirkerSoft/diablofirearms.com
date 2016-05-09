@@ -1,7 +1,8 @@
 <?php
 	include_once('header.php');
 ?>
-                <h2> (925) 459-5995<br>
+                <u><font color="red" size="5"><strong>Contact Us</strong></font></u>
+              </center><h2> (925) 459-5995<br>
                   <a href="mailto:contactus@diablofirearms.com?subject=Contact_Us">contactUs@DiabloFirearms.com</a></h2>
                 &nbsp; <a href="http://www.usacarry.com/directory/diablo-firearms-training-4806.html"
 

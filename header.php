@@ -55,7 +55,7 @@
                         <center>
                           <center>
                             <h1><em><font size="8">Diablo Firearms Training</font></em></h1>
-                            <h2><em>Home - <a href="classDescriptions.php">Class
+                            <h2><em><a href="index.php">Home</a> - <a href="classDescriptions.php">Class
                                   Descriptions</a> - <a href="classSchedule.php">Class
                                   Schedule</a> - <a href="contactUs.php">Contact
                                   Us</a></em></h2>

@@ -64,9 +64,7 @@
               action (if possible) and check the chamber and magazine by sight
               and feel to ensure than no live ammunition is present. The person
               receiving the gun should also check. <br clear="all">
-              <p align="right"> <a href="http://eddieeagle.nra.org/information-for-parents.aspx"
-                  target="_blank"> <img src="http://eddieeagle.nra.org/images/eddie/brochure.jpg"
-                    border="0"></a><a href="http://www.projectchildsafe.org/" target="_blank"><img
+              <p align="right"> <a href="http://www.projectchildsafe.org/" target="_blank"><img
                     src="http://www.projectchildsafe.org/sites/default/files/logo_2.png"
                     border="0" height="68" width="104"></a><a href="http://www.askingsaveskids.org"
                   target="_blank"></a><a href="http://www.citizencorps.gov/cc/searchCert.do?submitByZip"
