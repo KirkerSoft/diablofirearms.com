@@ -8,22 +8,26 @@
 
                   target="_blank"> </a><a href="downloads/instructorCert.pdf" target="_blank"><img
 
-                    src="/media/nra3Logos.png" alt="NRA Certified Instructor" border="0">
+                    src="media/nra3Logos.png" alt="NRA Certified Instructor" border="0">
                 </a> <a href="http://www.sabrepersonalsafetyacademy.com" target="_blank">
-                  <img src="/media/psa-logo.png" alt="SABRE Personal Safety Academy"
+                  <img src="media/psa-logo.png" alt="SABRE Personal Safety Academy"
 
-                    border="0"> </a> <br clear="all">
+                    border="0"> </a>
+				<table border=0 style="background: rgba(0,0,0,0.3);">
+				<tr><td>
                 <a target="_blank" href="https://classes.redcross.org/Certificate/0XVNWY">
                   <img style="width: 351px; height: 160px;" alt="American Red Cross"
 
                     src="https://classes.redcross.org/web_common_img/assets/common/img/ARC_Logo_8-11.png">
-                </a><br clear="all">
+                </a>
+				</td></tr>
+				</table>
                 <!-- Reciprocal links-->
                 <table style="width: 540px; height: 220px;" border="0">
                   <tbody>
                     <tr>
                       <td valign="center" width="33%" align=center>
-						<a href="https://us.glock.com/" target="_blank"> <img src="./media/glock.png" width=135 height=135 border=0> </a>
+						<a href="https://us.glock.com/" target="_blank"> <img src="media/glock.png" width=135 height=135 border=0> </a>
 					  </td>
                       <td valign="center" width="34%" align=center><a href="http://www.usacarry.com/directory/diablo-firearms-training-4806.html"
 
@@ -33,7 +37,7 @@
 
                             width="100"> </a></td>
                       <td valign="center" width="33%" align=center><a href="http://eddieeagle.nra.org/information-for-parents.aspx"
-                          target="_blank"> <img src="./media/eddieEagle.png" border=0> </a></td>
+                          target="_blank"> <img src="media/eddieEagle.png" border=0> </a></td>
                     </tr>
                     <tr>
                       <td valign="center" align=center><br>
