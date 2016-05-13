@@ -42,16 +42,16 @@
 </head>
   <body topmargin="0" marginheight="0">
     <center class="gwd-center-mlcc active-element-outline">
-      <table class="gwd-table-j4a0" background="/media/background.png" border="0" height="100%" width="1000">
+      <table class="gwd-table-j4a0" background="media/background.png" border="0" height="100%" width="1000">
         <tbody>
           <tr>
             <td valign="top">
               <center>
-                <table background="/media/header.png" border="0" width="100%">
+                <table background="media/header.png" border="0" width="100%">
                   <tbody>
                     <tr>
                       <td> <a href="http://www.diablofirearmstraining.com" target="_top">
-                          <img src="/media/logo.png" align="left" border="0"> </a>
+                          <img src="media/logo.png" align="left" border="0"> </a>
                         <center>
                           <center>
                             <h1><em><font size="8">Diablo Firearms Training</font></em></h1>
