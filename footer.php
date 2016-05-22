@@ -16,5 +16,6 @@
           style="border: 0px none ; position: absolute; float: right; right: 0px; bottom: 0px; z-index: 2;">
       </a>
       <!-- Facebook Badge END --> </center>
+<?php include_once("analyticstracking.php") ?>
   </body>
 </html>
