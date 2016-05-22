@@ -40,15 +40,9 @@
                           target="_blank"> <img src="media/eddieEagle.png" border=0> </a></td>
                     </tr>
                     <tr>
-                      <td valign="center" align=center><br>
-                      </td>
-                      <td valign="center" align=center><a href="http://www.projectchildsafe.org/"
-
-                          target="_blank"><img src="http://www.projectchildsafe.org/sites/default/files/logo_2.png"
-
-                            border="0" height="68" width="104"></a></td>
-					  <td valign="center" align=center><br>
-					  </td>
+                      <td valign="center" align=center><a href="http://www.projectchildsafe.org/" target="_blank"><img src="http://www.projectchildsafe.org/sites/default/files/logo_2.png" border="0" height="68" width="104"></a></td>
+                      <td valign="center" align=center> </td>
+					  <td valign="center" align=center><a href="https://www.youtube.com/channel/UCay2FwCZuOmE2MiMTRB8ggQ" target="_blank"><img src="http://www.johnlester.rocks/media/youtube_logo.png" width="125" height="125"></a></td>
                     </tr>
                   </tbody>
                 </table>
