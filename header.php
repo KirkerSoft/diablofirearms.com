@@ -57,7 +57,7 @@
                             <h1><em><font size="8">Diablo Firearms Training</font></em></h1>
                             <h2><em><a href="index.php">Home</a> - <a href="classDescriptions.php">Class
                                   Descriptions</a> - <a href="classSchedule.php">Class
-                                  Schedule</a> - <a href="contactUs.php">Contact
+                                  Schedule</a> - <a href="http://www.luckygunner.com/bulk-ammo#rid=diabloFirearms" target="_blank">Ammo</a> - <a href="contactUs.php">Contact
                                   Us</a></em></h2>
                           </center>
                         </center>
