@@ -4,12 +4,11 @@
                 <u><font color="red" size="5"><strong>Contact Us</strong></font></u>
               <h2> (925) 459-5995<br>
                   <a href="mailto:contactus@diablofirearms.com?subject=Contact_Us">contactUs@DiabloFirearms.com</a></h2>
-                &nbsp; <a href="http://www.usacarry.com/directory/diablo-firearms-training-4806.html"
-
-                  target="_blank"> </a><a href="downloads/instructorCert.pdf" target="_blank"><img
+                &nbsp; <a href="http://www.usacarry.com/directory/diablo-firearms-training-4806.html" target="_blank"> </a>
+<!--                <a href="downloads/instructorCert.pdf" target="_blank"><img
 
                     src="media/nra3Logos.png" alt="NRA Certified Instructor" border="0">
-                </a> <a href="http://www.sabrepersonalsafetyacademy.com" target="_blank">
+                </a>--> <a href="http://www.sabrepersonalsafetyacademy.com" target="_blank">
                   <img src="media/psa-logo.png" alt="SABRE Personal Safety Academy"
 
                     border="0"> </a>

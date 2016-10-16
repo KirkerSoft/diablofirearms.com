@@ -10,22 +10,22 @@
                       of Instruction</strong></font></u> </div>
               <ul>
                 <div align="left">
-                  <li><a href="#NRABasicPistol"><font color="yellow" size="4">NRA
+<!--                  <li><a href="#NRABasicPistol"><font color="yellow" size="4">NRA
                         Basic Pistol</font></a></li>
                   <li><a href="#NRARangeSafety"><font color="yellow" size="4">NRA
                         Range Safety Officer</font></a></li>
-                  <li><a href="#RedCrossFirstAidCPR"><font color="yellow" size="4">Red
+-->                  <li><a href="#RedCrossFirstAidCPR"><font color="yellow" size="4">Red
                         Cross Adult First Aid/CPR</font></a> </li>
-                  <li><a href="#RefusetobeaVictim"><font color="yellow" size="4">Refuse
+<!--                  <li><a href="#RefusetobeaVictim"><font color="yellow" size="4">Refuse
                         to be a Victim</font></a> </li>
                   <li><a href="#WomenonTarget"><font color="yellow" size="4">Women
                         on Target</font></a> </li>
                   <li><a href="#PersonalProtection"><font color="yellow" size="4">Personal Protection in the Home</font></a> </li>
-                </div>
+-->                </div>
               </ul>
               <div align="left">
                 <p>.</p>
-                <p> <a id="NRABasicPistol" name="NRABasicPistol"></a><font color="yellow" size="4"><strong>NRA&nbsp;Basic Pistol</strong></font> </p>
+<!--                <p> <a id="NRABasicPistol" name="NRABasicPistol"></a><font color="yellow" size="4"><strong>NRA&nbsp;Basic Pistol</strong></font> </p>
                 <p>The NRA Basic Pistol orientation course is designed with the
                   novice shooter in mind. This course provides a hands-on
                   introduction to the safe handling, storage, and proper
@@ -154,7 +154,7 @@
                   <p>.</p>
                 </div>
               </div>
-              <p> <a id="SABREcsap" name="SABREcsap"></a><strong><font color="yellow"
+-->              <p> <a id="SABREcsap" name="SABREcsap"></a><strong><font color="yellow"
 
                     size="4">SABRE Civilian Safety Awareness Program</font></strong>
                 <a href="http://www.sabrepersonalsafetyacademy.com/psa/"><img src="/media/psa-logo.png"
@@ -174,7 +174,7 @@
               <strong><a href="classSchedule.php#SABREcsap">Next Upcoming Class
                   / Cost</a></strong>
               <p>.</p>
-              <p> <a id="WomenonTarget" name="WomenonTarget"></a><strong><font
+<!--              <p> <a id="WomenonTarget" name="WomenonTarget"></a><strong><font
 
                     color="yellow" size="4">Women on Target</font></strong>
                 Shooting Clinic sponsored by Tri Valley NRA Members Council <a
@@ -196,6 +196,7 @@
               <strong><a href="classSchedule.php#WomenonTarget">Next Upcoming
                   Class / Cost</a></strong>
               <p>.</p>
+-->
 <?php
 	include_once('footer.php');
 ?>
